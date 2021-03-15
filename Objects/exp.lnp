@@ -1,0 +1,6 @@
+".\Objects\GPIO.obj",
+".\Objects\main.obj",
+".\Objects\delay.obj",
+".\Objects\USART1.obj" 
+TO ".\Objects\exp" 
+PRINT(".\Listings\exp.m51") RAMSIZE(256) 

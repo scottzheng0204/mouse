@@ -1,0 +1,14 @@
+C51 COMPILER V9.59.0.0   EXTI                                                              03/03/2021 20:34:38 PAGE 1   
+
+
+C51 COMPILER V9.59.0.0, COMPILATION OF MODULE EXTI
+OBJECT MODULE PLACED IN .\Objects\Exti.obj
+COMPILER INVOKED BY: E:\keil\C51\BIN\C51.EXE E:\STC15系列库函数与例程测试版V2.0\例程\30-双串口中断收发-INT0计数脉冲\Exti
+                    -.c OPTIMIZE(8,SPEED) BROWSE DEBUG OBJECTEXTEND PRINT(.\Listings\Exti.lst) TABS(2) OBJECT(.\Objects\Exti.obj)
+
+line level    source
+
+*** ERROR C202 IN LINE 29 OF E:\STC15系列库函视肜程测试版V2.0\莱蘚30-双串口中断收发-INT0计事龀錦Exti.c: 'num': undefined
+             - identifier
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  1 ERROR(S)
